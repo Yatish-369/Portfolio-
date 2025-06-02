@@ -11,14 +11,12 @@ Welcome to my **personal portfolio website** repository! This project showcases 
 - 📂 Showcases featured projects with live links
 - 📃 Resume/CV download
 - 📫 Contact form integration (Email or Formspree)
-- 🌙 Light/Dark mode toggle *(if implemented)*
 
 ---
 
 ## ⚙️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript  
-  *(or React/Vue/Next.js – update this section as needed)*
 - **Design**: Figma, Canva (for UI planning and graphic design)
 - **Deployment**: GitHub Pages / Netlify / Vercel
 
