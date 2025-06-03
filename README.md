@@ -10,7 +10,7 @@ Welcome to my **personal portfolio website** repository! This project showcases 
 - 🧩 Fully responsive design (mobile-friendly)
 - 📂 Showcases featured projects with live links
 - 📃 Resume/CV download
-- 📫 Contact form integration (Email or Formspree)
+- 📫 Contact form integration (Email)
 
 ---
 
