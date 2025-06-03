@@ -1,24 +1,30 @@
-# 🌐 Personal Portfolio Website
+# 🧑‍💻 Yatish Raj – Developer Portfolio Website
 
-Welcome to my **personal portfolio website** repository! This project showcases my skills, projects, resume, and contact information in a modern, responsive design. Built to serve as a digital identity for potential employers, collaborators, and clients.
+Welcome to my personal developer portfolio website! This site showcases my skills, experiences, and projects as a final-year Computer Science Engineering student, with expertise in web development, Python programming, UI/UX design, data analytics, and AI.
 
----
+## 🔍 About Me
 
-## 📁 Features
+I am a passionate and creative problem-solver with hands-on experience in building full-stack web applications and data-driven solutions. I approach problems with a user-first mindset and a vision for impactful technology.
 
-- 🎨 Clean and modern UI/UX
-- 🧩 Fully responsive design (mobile-friendly)
-- 📂 Showcases featured projects with live links
-- 📃 Resume/CV download
-- 📫 Contact form integration (Email)
+## 🚀 What I'm Doing
 
----
+- 🎨 **Web Design**  
+  Creating modern, high-quality designs tailored to professional standards.
 
-## ⚙️ Tech Stack
+- 🌐 **Web Development**  
+  Building and deploying responsive, user-friendly websites and applications.
 
-- **Frontend**: HTML5, CSS3, JavaScript  
-- **Design**: Figma, Canva (for UI planning and graphic design)
-- **Deployment**: GitHub Pages / Netlify / Vercel
+- 📊 **Data Analytics**  
+  Extracting insights and visualizing data to support smart decision-making.
 
----
+- 🐍 **Python Programming**  
+  Writing clean, efficient Python code for scripts, tools, and backend services.
 
+## 🛠️ Technologies Used
+
+- HTML5, CSS3, JavaScript
+- React.js (or your actual front-end framework)
+- Python
+- Figma (for UI/UX design)
+- Git & GitHub
+- Tools like VS Code, Postman, etc.
