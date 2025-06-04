@@ -2,6 +2,9 @@
 
 Welcome to my personal developer portfolio website! This site showcases my skills, experiences, and projects as a final-year Computer Science Engineering student, with expertise in web development, Python programming, UI/UX design, data analytics, and AI.
 
+<img width="907" alt="Screenshot 2025-06-04 013505" src="https://github.com/user-attachments/assets/294083f4-086d-4bbd-86bf-d051369e0022" />
+
+
 ## 🔍 About Me
 
 I am a passionate and creative problem-solver with hands-on experience in building full-stack web applications and data-driven solutions. I approach problems with a user-first mindset and a vision for impactful technology.
